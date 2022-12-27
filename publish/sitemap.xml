@@ -98,6 +98,12 @@
     </url>
   
     <url>
+      <loc>https://www.portoiluminacao.com.br/alpertone</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.portoiluminacao.com.br/pendente-vita-dourado-e-rocha-natural-35cm-9xled-36w</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -6023,12 +6029,6 @@
       <loc>https://www.portoiluminacao.com.br/luminaria-led-mega-ace-spot-de-trilho-5w-3000k-380lm</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.portoiluminacao.com.br/alpertone</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
