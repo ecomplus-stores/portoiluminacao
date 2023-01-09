@@ -98,6 +98,12 @@
     </url>
   
     <url>
+      <loc>https://www.portoiluminacao.com.br/alpertone</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.portoiluminacao.com.br/pendente-vita-dourado-e-rocha-natural-35cm-9xled-36w</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -6113,12 +6119,6 @@
       <loc>https://www.portoiluminacao.com.br/luminaria-de-emergencia-30-leds-yajia-4w</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.portoiluminacao.com.br/alpertone</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
