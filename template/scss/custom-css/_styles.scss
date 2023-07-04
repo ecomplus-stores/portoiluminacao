@@ -1,9 +1,11 @@
 // Add your custom CSS here.
 .__pages_catalogo {
-    a {
-        background-color: var(--primary);
-        padding: 10px;
-        color: #fff;
-        border-radius: 20px;
+    .extra-page {
+         a {
+            background-color: var(--primary);
+            padding: 10px;
+            color: #fff;
+            border-radius: 20px;
+        }
     }
 }
