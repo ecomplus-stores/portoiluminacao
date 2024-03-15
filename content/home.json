@@ -20,11 +20,6 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2024-03-14T22:36:13.026Z",
@@ -32,6 +27,11 @@
       "offers": [
         "6244682f2e405e04ff0cc53e"
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
